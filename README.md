@@ -1,2 +1,2 @@
 # ShimmerInSwift
-iphoe解锁动画效果
+iphone解锁动画效果
